@@ -9,9 +9,20 @@
 	src: url(./font/DOCALLISME_ON_STREET.ttf);
 }
 
+.imagen {
+	margin: -10%;
+	padding: 10px 20px;
+	margin-top: 100px;
+	margin-right: -220%;
+	width: 300px;
+	content: ">";
+	margin-right: 5px;
+}
 
-
-
+.listo{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0DPA-J7k7pVcvMGc02D4Q7kEn-rRRYfAbrg&usqp=CAU") ;
+	
+}
 
 .landing {
 	background-image: url("https://wallpapercave.com/wp/wp7923589.jpg");
@@ -104,7 +115,8 @@ table {
 
 }
 
-td,th {
+td,
+th {
 	border: 1px solid #000000;
 	padding: 8px;
 	background-color: wheat;
@@ -138,9 +150,9 @@ button {
 	padding: 15px 30px;
 	text-align: center;
 	color: #000000;
-	
+
 	background-color: rgba(255, 228, 196, 0);
-	
+
 
 }
 
